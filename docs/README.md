@@ -10,15 +10,8 @@
 
  具体用法可以参考[中文文档](https://docsify.js.org/#/zh-cn/)
 
- ## github pages 简介
+## github pages 简介
  **github pages** 是github提供给用户用来展示个人或者项目主页的静态网页系统。每个用户都可以使用自己的github项目创建，上传静态页面的html文件，github会帮你自动更新你的页面。
-
-# 学习目标
-
-- [ ] 计算机组成原理
-- [ ] 计算机网络
-- [ ] 操作系统
-- [ ] 数据结构与算法(java版)
 
 
  ![end](./images/end-soloLeveling.png)
